@@ -1,0 +1,2 @@
+# kmodprobe
+defaults from fedora 
